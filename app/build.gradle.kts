@@ -18,7 +18,7 @@ plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("androidx.navigation.safeargs.kotlin")
-    id("com.google.devtools.ksp") version "1.9.21-1.0.15"
+    id("com.google.devtools.ksp") version "1.9.20-1.0.14"
 }
 
 android {
